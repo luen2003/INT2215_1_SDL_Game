@@ -11,4 +11,4 @@ Link Youtube: https://youtu.be/7r64yKli0Ws
 4.Các kỹ thuật lập trình: Sử dụng BFS, mảng tên các file input, ảnh, các lớp ô, bảng, dùng các hàm chung, dùng đồ họa SDL,SDL_image,SDL_ttf,SDL_mixer
 
 5.Kết luận: Sử dụng đồ họa SDL và thuật toán BFS
-Hướng phát triển: Ghi điểm số nhiều người chơi hơn.
+Hướng phát triển: Ghi điểm số nhiều người chơi hơn và thêm nhiều ván vào mỗi chế độ hơn.
