@@ -4,8 +4,7 @@
 2.Mô tả chung: Xoay ống nước để từ nguồn có thể đến được mọi ô khác, đối tượng bảng gồm các ô, mỗi ô có các giá trị tương ứng với các loại ô, khi xoay hoặc thay đổi trạng thái đánh dấu bằng BFS từ nguồn các ô thay đổi giá trị dẫn đến thay đổi loại ô.
 Đồng thời game có hai chức năng game 4x4 và 5x5, mỗi chức năng random trong 3 ván từ file input, mỗi ván có nguồn ở vị trí giống nhau nhưng các loại ô ở các vị trí thì bị thay đổi.
 
-3.
-Chức năng đã cài đặt: Ghi điểm cao và lấy điểm cao từ file text, chèn âm thanh vào mỗi lần click vào ô, thêm thời gian, điểm số vào game, sử dụng thuật toán BFS từ nguồn theo các hướng của ảnh để thăm các ô đi được, game có hai chức năng game 4x4 và 5x5, mỗi chức năng random trong 3 ván từ file input, mỗi ván có nguồn ở vị trí giống nhau nhưng các loại ô ở các vị trí thì bị thay đổi.
+3.Chức năng đã cài đặt: Ghi điểm cao và lấy điểm cao từ file text, chèn âm thanh vào mỗi lần click vào ô, thêm thời gian, điểm số vào game, sử dụng thuật toán BFS từ nguồn theo các hướng của ảnh để thăm các ô đi được, game có hai chức năng game 4x4 và 5x5, mỗi chức năng random trong 3 ván từ file input, mỗi ván có nguồn ở vị trí giống nhau nhưng các loại ô ở các vị trí thì bị thay đổi.
 
 Link Youtube: https://youtu.be/7r64yKli0Ws
 
