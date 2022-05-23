@@ -1,5 +1,6 @@
 # INT2215_1_SDL_Game
-1.Cách cài đặt: 🌟 Dùng thư viện SDL,SDL_image,SDL_ttf,SDL_mixer.
+1.Cách cài đặt: 
+🌟 Dùng thư viện SDL,SDL_image,SDL_ttf,SDL_mixer.
 
 🌟Sử dụng đối tượng bảng gồm các đối tượng ô chiếu lên màn hình.
 
@@ -11,6 +12,7 @@
 Đồng thời game có hai chức năng game 4x4 và 5x5, mỗi chức năng random trong 3 ván từ file input, mỗi ván có nguồn ở vị trí giống nhau nhưng các loại ô ở các vị trí thì bị thay đổi.
 
 3.Chức năng đã cài đặt: 
+
 🌟Ghi điểm cao và lấy điểm cao từ file text.
 
 🌟chèn âm thanh vào mỗi lần click vào ô, thêm thời gian, điểm số vào game.
